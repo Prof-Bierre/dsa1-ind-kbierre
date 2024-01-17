@@ -1,5 +1,5 @@
-# gdaps2-ind-starter
-This is a template project for students to use in GDAPS 106 to track demo and practice exercise code.
+# dsa1-ind-starter
+This is a template project for students to use in DSA1 to track demo and practice exercise code.
 
 # Getting Started
 
